@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whatsinfinitum
+- 👋 Hi, I’m 
 - 👀 I’m interested in commercialization of technology and specially AI.
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on metaverse related projects.
